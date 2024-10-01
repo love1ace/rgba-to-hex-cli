@@ -1,0 +1,38 @@
+{
+  "name": "ra2hc",
+  "version": "1.0.0",
+  "description": "rgba to hex in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/ra2hc.git"
+  },
+  "keywords": [
+    "rgba",
+    "hex",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/ra2hc/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/ra2hc#readme",
+  "bin": {
+    "ra2hc": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
