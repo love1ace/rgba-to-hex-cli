@@ -1,20 +1,21 @@
-# ra2hc
+# rgba-to-hex-cli
 
-**ra2hc** is a CLI tool that converts rgba to hex.
+**rgba-to-hex-cli** is a CLI tool that converts rgba to hex.
 
-![npm](https://img.shields.io/npm/v/h2rac)
-![license](https://img.shields.io/npm/l/h2rac)
+![npm](https://img.shields.io/npm/v/rgba-to-hex-cli)
+![license](https://img.shields.io/npm/l/rgba-to-hex-cli)
+
 ## Quick Start
 
-Get **ra2hc** up and running quickly!
+Get **rgba-to-hex-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx ra2hc 255 129 110
+    npx rgba-to-hex-cli 255 129 110
     ```
     or with alpha value:
     ```bash
-    npx ra2hc 255 129 110 0.5
+    npx rgba-to-hex-cli 255 129 110 0.5
     ```
 2. **Done!**
 
@@ -31,7 +32,7 @@ This will convert the RGBA values `(255, 129, 110, 1)` to its HEX equivalent, an
 
 ## Contributing
 
-We welcome contributions to **ra2hc**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **rgba-to-hex-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 

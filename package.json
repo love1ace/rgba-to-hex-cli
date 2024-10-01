@@ -1,5 +1,5 @@
 {
-  "name": "ra2hc",
+  "name": "rgba-to-hex-cli",
   "version": "1.0.0",
   "description": "rgba to hex in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/ra2hc.git"
+    "url": "https://github.com/love1ace/rgba-to-hex-cli.git"
   },
   "keywords": [
     "rgba",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/ra2hc/issues"
+    "url": "https://github.com/love1ace/rgba-to-hex-cli/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/ra2hc#readme",
+  "homepage": "https://github.com/love1ace/rgba-to-hex-cli#readme",
   "bin": {
-    "ra2hc": "index.js"
+    "rgba-to-hex-cli": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
